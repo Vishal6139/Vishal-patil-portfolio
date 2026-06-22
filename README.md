@@ -1,0 +1,1 @@
+Portfolio My personal portfolio website, built to showcase my work as a Computer Engineering student focused on data science and full-stack development. ## What's inside - About me, skills, and education - Featured projects: Datalyst, Parkify, and an AI Teaching Assistant (RAG) -
